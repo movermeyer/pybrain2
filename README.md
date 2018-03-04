@@ -6,8 +6,8 @@ Status](https://travis-ci.org/pybrain2/pybrain2.svg?branch=master)](https://trav
 [![Coverage
 Status](https://coveralls.io/repos/hobson/pybrain/badge.png)](https://coveralls.io/r/hobson/pybrain)
 [![Version
-Status](https://pypip.in/v/pybrain/badge.png)](https://pypi.python.org/pypi/pybrain/)
-[![Downloads](https://pypip.in/d/pybrain/badge.png)](https://pypi.python.org/pypi/pybrain/)
+Status](https://img.shields.io/pypi/v/pybrain.svg)](https://pypi.python.org/pypi/pybrain/)
+[![Downloads](https://img.shields.io/pypi/dm/pybrain.svg)](https://pypi.python.org/pypi/pybrain/)
 
 INSTALLATION
 ------------
